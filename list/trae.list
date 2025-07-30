@@ -1,0 +1,7 @@
+# 内容：TRA¥E.AI 国际版代理规则
+# 域名关键字匹配
+# DOMAIN-KEYWORD,trae
+# DOMAIN-KEYWORD,byteoversea
+# 域名后缀匹配（包含主域名）
+DOMAIN-SUFFIX,trae.ai
+DOMAIN-SUFFIX,byteoversea.com

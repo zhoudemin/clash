@@ -43,3 +43,5 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
+
+DOMAIN-SUFFIX,perplexity.ai
